@@ -1,0 +1,17 @@
+.list-style-type-none {
+  list-style-type: none;
+}
+.from-article {
+  background-color: #e7f9fd;
+  border-radius: 20px;
+}
+.outline-none {
+  outline: none;
+}
+input {
+  text-align: left !important;
+}
+p {
+  color: dimgray !important;
+  margin-bottom: 0 !important;
+}

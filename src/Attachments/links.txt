@@ -1,0 +1,68 @@
+LINK FONT:
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+CSS FONT: 
+
+*{
+	font-family: 'Be Vietnam Pro', sans-serif;
+}
+
+
+LINK DESIGN:
+
+https://www.figma.com/design/gAVpylgcAOPPDRRjld8L33/Cooking-Template-%F0%9F%9F%A3-by-Flowbase.co-(Community)-(Copy)-(Copy)?node-id=1-296&t=BjT0a1POG8ew55EO-1
+
+
+
+
+
+
+
+
+
+
+
+Tasty Recipes
+
+
+
+
+
+
+
+
+
+
+
+
+
+Full Guide to Becoming a Professional Chef
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+Recipes
+Blog
+Contact
+About us
+
+© 2020 Flowbase. Powered by Webflow
